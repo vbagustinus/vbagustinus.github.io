@@ -8,47 +8,47 @@
 >
 > > **html**
 >
-> <html>
+> _html_
 >
-> <head>
+> _head_
 >
-> <title>
+> _title_
 >
-> <body>
+> _body_
 >
-> <header>
+> _header_
 >
-> <footer>
+> _footer_
 >
-> <ul>
+> _ul_
 >
-> <li>
+> _li_
 >
-> <img>
+> _img_
 >
-> <nav>
+> _nav_
 >
-> <br>
+> _br_
 >
-> <p>
+> _p_
 >
 > > **CSS**
 >
-> background
+> _background_
 >
-> background-color
+> _background-color_
 >
-> color
+> _color_
 >
-> padding
+> _padding_
 >
-> margin
+> _margin_
 >
-> position
+> _position_
 >
-> text-align
+> _text-align_
 >
-> font-size
+> _font-size_
 >
 > 
 
