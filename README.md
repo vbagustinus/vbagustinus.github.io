@@ -1,7 +1,7 @@
 # vbagustinus.github.io
 
 **About This Site**
-> Website statis yang memperkenalkan jenis-jenis program pelatihan yang ada di PT. Hactivate Teknologi Indonesia.
+> Rencana kedepan Website statis yang memperkenalkan jenis-jenis program pelatihan yang ada di PT. Hactivate Teknologi Indonesia.
 
 **Used Tags & Syntaxes**
 > Daftar tag HTML dan CSS yang digunakan:
