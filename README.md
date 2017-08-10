@@ -8,11 +8,11 @@
 >
 > > **html**
 >
-> '_html_'
+> <ins>html</ins>
 >
 > '_head_'
 >
-> 'title'
+> '''title'''
 >
 > _'body'_
 >
