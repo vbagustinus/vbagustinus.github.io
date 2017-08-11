@@ -1,7 +1,7 @@
 # vbagustinus.github.io
 
 **About This Site**
-> Rencana kedepan Website statis yang memperkenalkan jenis-jenis program pelatihan yang ada di PT. Hactivate Teknologi Indonesia.
+> > Website Aplikasi yang di gunakan untuk *voting* berbagai hal sesuai keinginan kita. Kita bisa membuat hal untuk di *voting* dan kamu juga bisa *voting*  berdasarkan hal yang akan teman kamu buat untuk *voting*.
 
 **Used Tags & Syntaxes**
 > Daftar tag HTML dan CSS yang digunakan:
