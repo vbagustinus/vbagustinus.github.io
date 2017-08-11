@@ -1,0 +1,148 @@
+/* Utama */
+
+body {
+	font-family: 'Neucha', cursive;
+	border: 0;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+}
+/* Header */
+
+#header {
+	background: rgba(0, 0, 0, 0.85);
+	color: #a6a6a6;
+	font-family: 'Hammersmith One', sans-serif;
+	cursor: default;
+	height: 3.25em;
+	left: 0;
+	line-height: 3.25em;
+	position: fixed;
+	text-align: right;
+	top: 0;
+	width: 100%;
+	z-index: 10001;
+}
+
+.logo {
+	display: inline-block;
+	height: inherit;
+	font-family: 'Hammersmith One', sans-serif;
+	font-size: 21px;
+	left: 1.25em;
+	line-height: inherit;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+}
+i {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 18px;
+}
+h1,h2,h3,h4 {
+	font-family: 'Shadows Into Light', sans-serif;
+}
+
+/* Menu */
+nav {
+	line-height: 1.5em;
+}
+nav ul {
+	position: relative;
+	float: right;
+	padding-right: 60px;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+	padding-right: 20px;
+	font-size: 17px;
+	color: rgba(255, 255, 255, 0.5);
+}
+a {   
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+a:hover {
+	color:paleturquoise;
+	vertical-align: middle;
+	transform: translateZ(0);
+	backface-visibility: hidden;
+	-moz-osx-font-smoothing: grayscale;
+	transition-duration: 0.3s;
+	transition-property: transform;
+	transition-timing-function: ease-out;
+}
+
+/*Isi*/
+ .utama {
+	 padding-top: 50px;
+ }
+
+ .atas {
+	 text-align: center;
+	 background-color: #006db3;
+	 margin: 0;
+	 padding: 10px 0 10px 0;
+	 color: whitesmoke;
+	 font-size: 30px;
+ }
+
+ .tengah {
+	 padding: 40px;
+	 background: #e6ffff;
+ }
+
+ p {
+	 font-size: 18px;
+ }
+
+ .bawah {
+	background-color: #006db3;
+	color: whitesmoke;
+ }
+
+ .isibawah {
+	 padding: 20px;
+ }
+.platform {
+	padding: 20px 0 0 0;
+	text-align: center;
+	font-family: 'Neucha', cursive;
+}
+.box {
+	padding-top: 10px;
+}
+.kotak {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+	padding-top: 10px;
+ }
+ .hedplatform {
+	font-family: 'Neucha', cursive;
+ }
+
+/* Footer */
+
+#footer {
+	float: none;
+	padding: 2rem 15px 2rem 0 ;
+	background: #000;
+	margin: auto;
+	text-align: right;
+
+}
+.copyright {
+	color: #bbb;
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+}
