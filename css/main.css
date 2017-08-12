@@ -7,6 +7,7 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
 /* Header */
 
 #header {
@@ -94,10 +95,28 @@ a:hover {
  }
 
  .tengah {
-	 padding: 40px;
+	 padding: 40px 50px 30px 50px;
+	 margin: 0;
 	 background: #e6ffff;
+	 background-image: url('../img/gambar.png');
+	
  }
 
+ .kecuali {
+	
+	padding-top: 30px;
+ }
+
+.fitur div {
+	padding: 20px;
+	font-size: 15pt;
+	text-align: center;
+	padding-top: 30px 40px 30px 40px;
+}
+img {
+	height: 50px;
+	padding: 10px;
+}
  p {
 	 font-size: 18px;
  }
@@ -106,14 +125,14 @@ a:hover {
 	background-color: #006db3;
 	color: whitesmoke;
  }
-
- .isibawah {
+.isibawah {
 	 padding: 20px;
  }
 .platform {
 	padding: 20px 0 0 0;
 	text-align: center;
 	font-family: 'Neucha', cursive;
+	float: none;
 }
 .box {
 	padding-top: 10px;
@@ -132,6 +151,7 @@ a:hover {
 	font-family: 'Neucha', cursive;
  }
 
+
 /* Footer */
 
 #footer {
@@ -147,4 +167,22 @@ a:hover {
 	font-size: 18px;
 	margin: 0;
 	padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {	
+	font-family: 'Neucha', cursive;
+}
+.row {
+    margin-right: -15px;
+	margin-left: -15px;
+	padding: 30px;
+	margin: 0;
+	
+}
+
+.col-md-4, .col-xs-6 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 20px;
+	padding-left: 20px;
+	display: inline-table;
 }
