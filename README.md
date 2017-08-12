@@ -11,9 +11,15 @@
 > ```html
 > html
 > head
+> link
 > title
 > body
 > header
+> section
+> h1
+> h2
+> h3
+> i
 > footer
 > ul
 > li
@@ -27,14 +33,29 @@
 >
 > ```css
 > background
-> background-color
+> background-*
 > color
 > padding
+> padding-*
 > margin
 > position
 > text-align
-> font-size
+> font-*
+> display
+> top
+> bottop
+> left
+> cunsor
+> height
+> width
+> z-index
+> float
+> transform
+> transition
+> backface
+> moz-*
+>
 > ```
 
 **About Me**
-> Saya adalah calon full stack javascript. Belajar membuat web statis dengan **HTML** dan **CSS**. 
+> Saya adalah calon full stack javascript. Belajar membuat web dengan **HTML** dan **CSS**. 
