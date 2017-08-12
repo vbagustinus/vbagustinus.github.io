@@ -1,7 +1,7 @@
 # vbagustinus.github.io
 
 **About This Site**
-> Website Aplikasi yang di gunakan untuk *voting* berbagai hal sesuai keinginan kita. Kita bisa membuat hal untuk di *voting* dan kamu juga bisa *voting* berdasarkan hal yang akan teman kamu buat untuk *voting*. Untuk nanti kedepanya akan di tambahkan fitur pengelompokan atau *gruping* agar memudahkan untuk melakukan voting dengan orang orang yang kita tentukan.
+> Website Aplikasi yang di gunakan untuk *voting* berbagai hal sesuai keinginan kita. Kita bisa membuat hal untuk di *voting* dan kamu juga bisa *voting* berdasarkan hal yang akan teman kamu buat untuk *voting*. 
 
 **Used Tags & Syntaxes**
 > Daftar tag HTML dan CSS yang digunakan:
@@ -11,9 +11,15 @@
 > ```html
 > html
 > head
+> link
 > title
 > body
 > header
+> section
+> h1
+> h2
+> h3
+> i
 > footer
 > ul
 > li
@@ -27,20 +33,35 @@
 >
 > ```css
 > background
-> background-color
+> background-*
 > color
 > padding
+> padding-*
 > margin
 > position
 > text-align
-> font-size
+> font-*
+> display
+> top
+> bottop
+> left
+> cunsor
+> height
+> width
+> z-index
+> float
+> transform
+> transition
+> backface
+> moz-*
 >
 > ```
 
-> **Javascript**
->
-> Kemungkinan akan menambahkan kode javascript untuk mempercantik tampilan.
 
 **About Me**
 
 > Saya adalah full stack javascript. Belajar membuat web statis dengan **HTML** dan **CSS**. Memahami **Front End** dan **Back End**, Membuat server dengan **Node.js**.
+
+**Future Plans**
+
+> Untuk kedepanya akan di tambahkan fitur pengelompokan atau *gruping* agar memudahkan untuk melakukan voting dengan orang orang yang kita tentukan. 
